@@ -4345,7 +4345,7 @@ export type components = {
         };
         /**
          * Core Metadata
-         * @description Collects core generation metadata into a MetadataField
+         * @description Used internally by Invoke to collect metadata for generations.
          */
         CoreMetadataInvocation: {
             /**
@@ -11025,6 +11025,11 @@ export type components = {
              * @description Default height for this model
              */
             height?: number | null;
+            /**
+             * Guidance
+             * @description Default Guidance for this model
+             */
+            guidance?: number | null;
         };
         /**
          * Main Model
