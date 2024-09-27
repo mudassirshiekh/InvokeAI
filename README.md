@@ -1,5 +1,5 @@
 <div align="center">
-
+#Mudassir Alam
 ![project hero](https://github.com/invoke-ai/InvokeAI/assets/31807370/6e3728c7-e90e-4711-905c-3b55844ff5be)
 
 # Invoke - Professional Creative AI Tools for Visual Media
